@@ -1,0 +1,29 @@
+h1 {
+    color: darkblue;   
+}
+
+#red {
+    color: red;
+}
+
+.purple{
+    color: purple;
+}
+
+.green{
+    color: green;
+}
+
+#lightblue{
+    background-color: lightskyblue;
+}
+
+#brown{
+    background-color: brown;
+}
+
+div{
+    width: 500px;
+    height: 200px;
+    display:inline-block;
+}
